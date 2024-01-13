@@ -1,6 +1,7 @@
+const basePath = process.env.BASE_PATH || '/';
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function () {
-    navigator.serviceWorker.register(`${router.basePath}/serviceWorker.js`).then(function (registration) {
+    navigator.serviceWorker.register(`${basePath}serviceWorker.js`).then(function (registration) {
       console.log('ServiceWorker registration successful with scope: ', registration.scope);
     }, function (err) {
       console.error('ServiceWorker registration failed: ', err);
