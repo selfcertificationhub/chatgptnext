@@ -1,4 +1,3 @@
-const basePath = process.env.BASE_PATH || '/';
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function () {
     navigator.serviceWorker.register("/chatgptnext/serviceWorker.js").then(function (registration) {
