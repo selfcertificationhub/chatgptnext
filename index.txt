@@ -1,5 +1,5 @@
 1:HL["/chatgptnext/_next/static/css/cbfc412cab8c824e.css",{"as":"style"}]
-0:["K0-Pk5-gyOh8WHqHllCqp",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/chatgptnext/_next/static/css/cbfc412cab8c824e.css","precedence":"next"}]],["$L3",null]]]]]
+0:["rPOl9yNOt4YPvA60rUm2-",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/chatgptnext/_next/static/css/cbfc412cab8c824e.css","precedence":"next"}]],["$L3",null]]]]]
 4:HL["/chatgptnext/_next/static/css/979be624de2d5ff2.css",{"as":"style"}]
 5:HL["/chatgptnext/_next/static/css/765ce86c7f30c399.css",{"as":"style"}]
 6:I{"id":9180,"chunks":["272:static/chunks/webpack-da98133ad98b8910.js","629:static/chunks/04b39fde-407748c680a323f1.js"],"name":"default","async":false}
