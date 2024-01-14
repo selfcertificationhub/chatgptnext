@@ -1,4 +1,5 @@
 if ('serviceWorker' in navigator) {
+  console.log('location: ', window.location)
   window.addEventListener('load', function () {
     navigator.serviceWorker.register("/chatgptnext/serviceWorker.js").then(function (registration) {
       console.log('ServiceWorker registration successful with scope: ', registration.scope);
